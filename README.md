@@ -1,3 +1,4 @@
+as of 2021 feb 8, I updated dependecies for firebase storage and 7.0.0
 # 🔥 Firebase Image Provider
 
 [![pub package](https://img.shields.io/pub/v/firebase_image.svg)](https://pub.dartlang.org/packages/firebase_image)
