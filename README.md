@@ -1,5 +1,6 @@
-as of 2021 feb 8, I updated dependecies for firebase storage 7.0.0
-original readme follows:
+As of 2021 feb 8, I updated dependecies for firebase storage 7.0.0!
+
+The original readme follows:
 
 # 🔥 Firebase Image Provider
 
